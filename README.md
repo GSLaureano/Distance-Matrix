@@ -9,7 +9,7 @@
 2 - Download All Files
 
 
-3 - On Matrix Distance API.py, on line 18th:
+3 - On Matrix Distance API.py, on the line 18th:
 *update api_key -> api_key = ["<api_key>"]
 
 
