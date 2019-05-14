@@ -10,7 +10,8 @@
 
 
 3 - On Matrix Distance API.py, on the line 18th:
-*update api_key -> api_key = ["<api_key>"]
+update api_key -> api_key = ["<api_key>"]
+Please, read: https://developers.google.com/analytics/devguides/config/mgmt/v3/limits-quotas?hl=en-us
 
 
 4 - On Base-de-dados:
